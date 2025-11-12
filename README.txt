@@ -1,0 +1,1 @@
+Unzip, run npm install, then npm start. Replace assets with your real images if desired.
